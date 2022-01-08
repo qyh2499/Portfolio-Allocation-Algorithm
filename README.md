@@ -1,2 +1,3 @@
-# Portfolio-Allocation-Algorithm
-Course CFM 101 Group Project. Other Contributor: https://github.com/gnishiwaki
+# Team3-CFM101
+
+I think github is the way to go because we can all work on the document at the same time. 
